@@ -1,4 +1,4 @@
-**Instructions for Students to build a Mini Students Course Registration System**
+### **Instructions for Students to build a Mini Students Course Registration System**
 
 You are tasked to build a database for a student registration system. The system allows the user to:
 
@@ -487,7 +487,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
    You will now run the project; if everything is done right, it will be perfectly executed.
 
 
-   **Running your project**
+   ### **Running your project**
 
    a. Launch any web browser on your computer and type the address "HTTP://localhost/Your_Name_DBMS/" and hit enter. *remember Your_Name_DBMS is the name of your project folder*
 
