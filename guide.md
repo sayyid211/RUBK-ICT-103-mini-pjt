@@ -192,7 +192,7 @@ e. create another file called register_course.php, paste the following code and 
         <button type="submit">Register</button>
     </form>
 </body>
-</html>
+</html> 
 ```
 f. create another file called save_course.php, paste the following code and save.
 
